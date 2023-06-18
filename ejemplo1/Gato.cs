@@ -10,7 +10,8 @@ namespace ejemplo1
     {
         public override string comunicarse()
         {
-            return "miau, miau...";
+            //Sonido que emiten los gatos
+            return "miau, miau, miau...";
         }
 
     }
